@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"SOJAL"</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonText">OK</string>
+    <string name="input_hint_text">Your Name</string>
+    <string name="show_text">Please Write Your Name</string>
+    <string name="title_activity_activity_sojal1">ActivitySojal1</string>
+    <string name="title_activity_wish_list">WishListActivity</string>
+    <string name="title_activity_wish_list_activity">Wish_list_activity</string>
+
+</resources>
